@@ -1,0 +1,2 @@
+,count,mean,std,min,25%,50%,75%,max,Confidence_Interval_Performance,Model_Name,kernel,alpha,optimizer,n_restarts_optimizer,normalize_y,copy_X_train,random_state,activation,learning_rate,data_scaling,other_settings
+0,442.0,82.52814431372138,14.834636531246584,7.069073704029065,75.83825933520771,82.81832377693584,89.13559901869858,140.03768624134176,0.0,2022-08-24--16-12-03.734995--mlp--diabetes_y--1e-10-tanh-constant,N/A,1e-10,N/A,N/A,N/A,N/A,N/A,tanh,constant,standard scaler,Defaults

@@ -143,10 +143,10 @@ def cross_validation(X, y, gpr_settings, mlp_settings):
 if __name__ == '__main__':
 
     # Location to put detailed model results
-    detailed_results_loc = "C:\\Repositories\\junk-drawer\\Results_folder_test\\"
+    detailed_results_loc = "C:\\path_to_folder\\"
 
     # Location to put summaries of model performance
-    run_summaries_loc = "C:\\Repositories\\junk-drawer\\Results_folder_test\\"
+    run_summaries_loc = "C:\\path_to_folder\\"
 
     # Import Scikit-Learn's Diabetes dataset
     X, y = datasets.load_diabetes(return_X_y=True)
